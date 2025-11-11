@@ -1,0 +1,200 @@
+{
+	"PrayerGuide": {
+		"title": "🌿 COMPLETE FIVE DAILY PRAYERS GUIDE",
+		"subtitle": "(with Arabic recitation)",
+		"tabs": {
+			"prayers": "Prayer Order",
+			"recitations": "Surahs and Prayers"
+		},
+		"recitationsTitle": "✨ Surahs and Prayers Recited in Prayer",
+		"notesTitle": "🔔 Note",
+		"niyat": "Intention",
+		"prayers": {
+			"fajr": {
+				"title": "1. FAJR PRAYER",
+				"description": "2 rak'ahs Sunnah, 2 rak'ahs Fard",
+				"sunnatRakats": [
+					{
+						"title": "Sunnah (2 rak'ahs)",
+						"niyat": "I intend to pray the two rak'ahs Sunnah of Fajr prayer for the sake of Allah.",
+						"steps": [
+							"1st rak'ah: Subhanaka, Al-Fatiha, short surah (Ikhlas), ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah (Kawthar), ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				],
+				"farzRakats": [
+					{
+						"title": "Fard (2 rak'ahs)",
+						"niyat": "I intend to pray the two rak'ahs Fard of Fajr prayer for the sake of Allah.",
+						"steps": [
+							"1st rak'ah: Subhanaka, Al-Fatiha, short surah (Ikhlas), ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah (Kawthar), ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				]
+			},
+			"dhuhr": {
+				"title": "2. DHUHR PRAYER",
+				"description": "4 rak'ahs Sunnah, 4 rak'ahs Fard, 2 rak'ahs Sunnah",
+				"sunnatRakats": [
+					{
+						"title": "Sunnah (4 rak'ahs)",
+						"steps": [
+							"1st-2nd rak'ahs: Subhanaka, Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud in 2nd rak'ah.",
+							"3rd-4th rak'ahs: Only Al-Fatiha, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam in 4th rak'ah."
+						]
+					},
+					{
+						"title": "Sunnah (2 rak'ahs)",
+						"steps": [
+							"1st rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				],
+				"farzRakats": [
+					{
+						"title": "Fard (4 rak'ahs)",
+						"steps": [
+							"1st-2nd rak'ahs: Subhanaka, Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud in 2nd rak'ah.",
+							"3rd-4th rak'ahs: Only Al-Fatiha, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam in 4th rak'ah."
+						]
+					}
+				]
+			},
+			"asr": {
+				"title": "3. ASR PRAYER",
+				"description": "4 rak'ahs Fard",
+				"farzRakats": [
+					{
+						"title": "Fard (4 rak'ahs)",
+						"steps": [
+							"1st-2nd rak'ahs: Subhanaka, Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud in 2nd rak'ah.",
+							"3rd-4th rak'ahs: Only Al-Fatiha, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam in 4th rak'ah."
+						]
+					}
+				]
+			},
+			"maghrib": {
+				"title": "4. MAGHRIB PRAYER",
+				"description": "3 rak'ahs Fard, 2 rak'ahs Sunnah",
+				"farzRakats": [
+					{
+						"title": "Fard (3 rak'ahs)",
+						"steps": [
+							"1st rak'ah: Subhanaka, Al-Fatiha, short surah, ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah, ruku', sajdah, Tashahhud.",
+							"3rd rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				],
+				"sunnatRakats": [
+					{
+						"title": "Sunnah (2 rak'ahs)",
+						"steps": [
+							"1st rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				]
+			},
+			"isha": {
+				"title": "5. ISHA PRAYER",
+				"description": "4 rak'ahs Fard, 2 rak'ahs Sunnah",
+				"farzRakats": [
+					{
+						"title": "Fard (4 rak'ahs)",
+						"steps": [
+							"1st-2nd rak'ahs: Subhanaka, Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud in 2nd rak'ah.",
+							"3rd-4th rak'ahs: Only Al-Fatiha, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam in 4th rak'ah."
+						]
+					}
+				],
+				"sunnatRakats": [
+					{
+						"title": "Sunnah (2 rak'ahs)",
+						"steps": [
+							"1st rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah, ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				]
+			},
+			"witr": {
+				"title": "6. WITR PRAYER",
+				"description": "3 rak'ahs Wajib",
+				"farzRakats": [
+					{
+						"title": "Wajib (3 rak'ahs)",
+						"niyat": "I intend to pray the three rak'ahs Wajib of Witr prayer for the sake of Allah.",
+						"steps": [
+							"1st rak'ah: Subhanaka, Al-Fatiha, short surah (Ikhlas), ruku', sajdah.",
+							"2nd rak'ah: Al-Fatiha, short surah (Kawthar), ruku', sajdah, Tashahhud.",
+							"3rd rak'ah: Al-Fatiha, short surah, before ruku' raise hands and recite Qunut prayer, then ruku', sajdah.",
+							"Tashahhud, Salawat, Dua, Salam."
+						]
+					}
+				]
+			}
+		},
+		"recitations": {
+			"subhanaka": {
+				"title": "Subhanaka",
+				"content": "Subhanakallohumma va bihamdik, va tabarokasmuk, va ta'ala jadduk, va la ilaha g'oyruk."
+			},
+			"fatiha": {
+				"title": "Surah Al-Fatiha",
+				"content": "Bismillahir rohmanir rohim.\n1. Alhamdulillahi robbil 'aalamiyn \n2. Ar-rohmaanir rohiym \n3. Maaliki yavmiddiyn \n4. Iyyaaka na'budu va iyyaaka nasta'iyn. \n5. Ihdinas-sirootol mustaqiym \n6-7. Sirootol-laziyna an'amta 'alayhim g'oyril mag'zuubi 'alayhim valazzolliyn. Omin."
+			},
+			"ikhlas": {
+				"title": "Surah Al-Ikhlas",
+				"content": "Qul huvallohu ahad.\nAllohu somad.\nLam yalid va lam yulad.\nVa lam yakun lahu kufuvan ahad."
+			},
+			"kawthar": {
+				"title": "Surah Al-Kawthar",
+				"content": "Inna a'taynaka-l-kawthar.\nFasalli li-robbika vanhar.\nInna shani'aka huval-abtar."
+			},
+			"tashahhud": {
+				"title": "Attahiyyat (Tashahhud)",
+				"content": "Attahiyyatu lillahi vassalavatu vattoyyibat.\nAssalamu 'alayka ayyuhan-nabiyyu va rohmatullahi va barokatuh.\nAssalamu 'alayna va 'ala ibadillahissolihin.\nAshhadu alla ilaha illallohu va ashhadu anna Muhammadan abduhu va rosuluh.\n\nAt-tahiyyātu lillāhi was-salawātu wat-tayyibāt,\nAs-salāmu 'alayka ayyuhan-nabiyyu wa raḥmatullāhi wa barakātuh,\nAs-salāmu 'alaynā wa 'alā 'ibādillāhiṣ-ṣāliḥīn,\nAshhadu allā ilāha illallāh,\nWa ashhadu anna Muḥammadan 'abduhū wa rasūluh."
+			},
+			"salawat": {
+				"title": "Salawat",
+				"content": "Allohumma solli 'ala Muhammadin va 'ala ali Muhammadin.\nKama sollayta 'ala Ibrohima va 'ala ali Ibrohim.\nInnaka hamidum majid.\nAllohumma barik 'ala Muhammadin va 'ala ali Muhammadin.\nKama barokta 'ala Ibrohima va 'ala ali Ibrohim.\nInnaka hamidum majid. \n\nAllāhumma ṣalli 'alā Muḥammadin wa 'alā āli Muḥammad,\nKamā ṣallayta 'alā Ibrāhīma wa 'alā āli Ibrāhīm,\nInnaka ḥamīdum-majīd.\n\nAllāhumma bārik 'alā Muḥammadin wa 'alā āli Muḥammad,\nKamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīm,\nInnaka ḥamīdum-majīd."
+			},
+			"dua": {
+				"title": "Dua",
+				"content": "Robbana atina fid-dunya hasanatan, va fil-akhirati hasanatan, va qina 'azaban-nar."
+			},
+			"salam": {
+				"title": "Salam",
+				"content": "Assalamu 'alaykum va rohmatulloh."
+			},
+			"qunut": {
+				"title": "Qunut Prayer",
+				"content": "Allohumma inna nasta'iynuka va nastaghfiruka va nu'minu bika va natavakkalu 'alayka va nusniy 'alaykal-khayr, kullahu nashkuruka va la nakfuruk, va nakhla'u va natruku may-yafjuruk.\n\nAllohumma iyyaka na'budu va laka nusolli va nasjudu va ilayka nas'a va nahfidu, narju rohmataka, va nakhsha 'azabaka, inna 'azabaka bil-kuffari mulhiq."
+			}
+		},
+		"notes": [
+			"In each sajdah, say 'Subhana robbiyal a'la' 3 times.",
+			"In each ruku', say 'Subhana robbiyal azim' 3 times.",
+			"Reciting a short surah after Surah Al-Fatiha is Sunnah.",
+			"Each salam: 'Assalamu alaykum va rohmatulloh.'"
+		]
+	}
+}

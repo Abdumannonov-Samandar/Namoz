@@ -1,0 +1,200 @@
+{
+	"PrayerGuide": {
+		"title": "🌿 BEŞ VAKİT NAMAZ TAM KILINIŞI",
+		"subtitle": "(Arapça okunuşu ile)",
+		"tabs": {
+			"prayers": "Namaz Sırası",
+			"recitations": "Sureler ve Dualar"
+		},
+		"recitationsTitle": "✨ Namazda Okunan Sureler ve Dualar",
+		"notesTitle": "🔔 Not",
+		"niyat": "Niyet",
+		"prayers": {
+			"fajr": {
+				"title": "1. SABAH NAMAZI",
+				"description": "2 rekat sünnet, 2 rekat farz",
+				"sunnatRakats": [
+					{
+						"title": "Sünnet (2 rekat)",
+						"niyat": "Allah rızası için sabah namazının iki rekat sünnetini kılmaya niyet ettim.",
+						"steps": [
+							"1. rekat: Sübhaneke, Fatiha, kısa sure (İhlas), rüku, secde.",
+							"2. rekat: Fatiha, kısa sure (Kevser), rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				],
+				"farzRakats": [
+					{
+						"title": "Farz (2 rekat)",
+						"niyat": "Allah rızası için sabah namazının iki rekat farzını kılmaya niyet ettim.",
+						"steps": [
+							"1. rekat: Sübhaneke, Fatiha, kısa sure (İhlas), rüku, secde.",
+							"2. rekat: Fatiha, kısa sure (Kevser), rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				]
+			},
+			"dhuhr": {
+				"title": "2. ÖĞLE NAMAZI",
+				"description": "4 rekat sünnet, 4 rekat farz, 2 rekat sünnet",
+				"sunnatRakats": [
+					{
+						"title": "Sünnet (4 rekat)",
+						"steps": [
+							"1-2. rekatlar: Sübhaneke, Fatiha, kısa sure, rüku, secde.",
+							"2. rekatta Teşehhüd.",
+							"3-4. rekatlar: sadece Fatiha, rüku, secde.",
+							"4. rekatta Teşehhüd, Salavat, Dua, Selam."
+						]
+					},
+					{
+						"title": "Sünnet (2 rekat)",
+						"steps": [
+							"1. rekat: Fatiha, kısa sure, rüku, secde.",
+							"2. rekat: Fatiha, kısa sure, rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				],
+				"farzRakats": [
+					{
+						"title": "Farz (4 rekat)",
+						"steps": [
+							"1-2. rekatlar: Sübhaneke, Fatiha, kısa sure, rüku, secde.",
+							"2. rekatta Teşehhüd.",
+							"3-4. rekatlar: sadece Fatiha, rüku, secde.",
+							"4. rekatta Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				]
+			},
+			"asr": {
+				"title": "3. İKİNDİ NAMAZI",
+				"description": "4 rekat farz",
+				"farzRakats": [
+					{
+						"title": "Farz (4 rekat)",
+						"steps": [
+							"1-2. rekatlar: Sübhaneke, Fatiha, kısa sure, rüku, secde.",
+							"2. rekatta Teşehhüd.",
+							"3-4. rekatlar: sadece Fatiha, rüku, secde.",
+							"4. rekatta Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				]
+			},
+			"maghrib": {
+				"title": "4. AKŞAM NAMAZI",
+				"description": "3 rekat farz, 2 rekat sünnet",
+				"farzRakats": [
+					{
+						"title": "Farz (3 rekat)",
+						"steps": [
+							"1. rekat: Sübhaneke, Fatiha, kısa sure, rüku, secde.",
+							"2. rekat: Fatiha, kısa sure, rüku, secde, Teşehhüd.",
+							"3. rekat: Fatiha, kısa sure, rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				],
+				"sunnatRakats": [
+					{
+						"title": "Sünnet (2 rekat)",
+						"steps": [
+							"1. rekat: Fatiha, kısa sure, rüku, secde.",
+							"2. rekat: Fatiha, kısa sure, rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				]
+			},
+			"isha": {
+				"title": "5. YATSI NAMAZI",
+				"description": "4 rekat farz, 2 rekat sünnet",
+				"farzRakats": [
+					{
+						"title": "Farz (4 rekat)",
+						"steps": [
+							"1-2. rekatlar: Sübhaneke, Fatiha, kısa sure, rüku, secde.",
+							"2. rekatta Teşehhüd.",
+							"3-4. rekatlar: sadece Fatiha, rüku, secde.",
+							"4. rekatta Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				],
+				"sunnatRakats": [
+					{
+						"title": "Sünnet (2 rekat)",
+						"steps": [
+							"1. rekat: Fatiha, kısa sure, rüku, secde.",
+							"2. rekat: Fatiha, kısa sure, rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				]
+			},
+			"witr": {
+				"title": "6. VİTR NAMAZI",
+				"description": "3 rekat vacip",
+				"farzRakats": [
+					{
+						"title": "Vacip (3 rekat)",
+						"niyat": "Allah rızası için vitir namazının üç rekat vacibini kılmaya niyet ettim.",
+						"steps": [
+							"1. rekat: Sübhaneke, Fatiha, kısa sure (İhlas), rüku, secde.",
+							"2. rekat: Fatiha, kısa sure (Kevser), rüku, secde, Teşehhüd.",
+							"3. rekat: Fatiha, kısa sure, rükudan önce eller kaldırılıp Kunut duası okunur, sonra rüku, secde.",
+							"Teşehhüd, Salavat, Dua, Selam."
+						]
+					}
+				]
+			}
+		},
+		"recitations": {
+			"subhanaka": {
+				"title": "Sübhaneke",
+				"content": "Sübhânekellâhümme ve bi hamdik ve tebârakesmük ve teâlâ ceddük (ve celle senâük) ve lâ ilâhe gayrük."
+			},
+			"fatiha": {
+				"title": "Fatiha suresi",
+				"content": "Bismillâhirrahmânirrahîm.\n1. Elhamdü lillâhi rabbil'alemin\n2. Errahmânir'rahim\n3. Mâliki yevmiddin\n4. İyyâke na'budü ve iyyâke neste'în\n5. İhdinessırâtel müstakîm\n6. Sırâtellezîne en'amte aleyhim ğayrilmağdûbi aleyhim ve leddâllîn.\nAmin."
+			},
+			"ikhlas": {
+				"title": "İhlas suresi",
+				"content": "Kul hüvellâhü ehad\nAllahüssamed\nLem yelid ve lem yûled\nVe lem yekün lehû küfüven ehad."
+			},
+			"kawthar": {
+				"title": "Kevser suresi",
+				"content": "İnnâ a'taynâkel kevser\nFesalli li rabbike venhar\nİnne şânieke hüvel'ebter."
+			},
+			"tashahhud": {
+				"title": "Ettehiyyatü (Teşehhüd)",
+				"content": "Ettehiyyâtü lillâhi vessalevâtü vettayyibât.\nEsselâmü aleyke eyyühennebiyyü ve rahmetüllâhi ve berakâtüh.\nEsselâmü aleynâ ve alâ ibâdillâhissâlihîn.\nEşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abdühû ve resûlüh.\n\nEt-tahiyyātu lillāhi was-salawātu wat-tayyibāt,\nAs-salāmu 'alayka ayyuhan-nabiyyu wa raḥmatullāhi wa barakātuh,\nAs-salāmu 'alaynā wa 'alā 'ibādillāhiṣ-ṣāliḥīn,\nAshhadu allā ilāha illallāh,\nWa ashhadu anna Muḥammadan 'abduhū wa rasūluh."
+			},
+			"salawat": {
+				"title": "Salavat",
+				"content": "Allahümme salli alâ Muhammedin ve alâ âli Muhammed.\nKemâ salleyte alâ İbrâhîme ve alâ âli İbrâhîm.\nİnneke hamîdün mecîd.\nAllahümme bârik alâ Muhammedin ve alâ âli Muhammed.\nKemâ bârekte alâ İbrâhîme ve alâ âli İbrâhîm.\nİnneke hamîdün mecîd.\n\nAllāhumma ṣalli 'alā Muḥammadin wa 'alā āli Muḥammad,\nKamā ṣallayta 'alā Ibrāhīma wa 'alā āli Ibrāhīm,\nInnaka ḥamīdum-majīd.\n\nAllāhumma bārik 'alā Muḥammadin wa 'alā āli Muḥammad,\nKamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīm,\nInnaka ḥamīdum-majīd."
+			},
+			"dua": {
+				"title": "Dua",
+				"content": "Rabbenâ âtinâ fid'dünyâ haseneten ve fil'âhirati haseneten ve kınâ azâbennâr."
+			},
+			"salam": {
+				"title": "Selam",
+				"content": "Esselâmü aleyküm ve rahmetullâh."
+			},
+			"qunut": {
+				"title": "Kunut duası",
+				"content": "Allahümme innâ neste'înüke ve nestağfirüke ve nestehdîk.\nVe nü'minü bike ve netûbü ileyk.\nVe netevekkelü aleyke ve nüsniî aleykel hayra küllehü neşkürüke ve lâ nekfürük.\nVe nahle'u ve netrükü men yefcürük.\n\nAllahümme iyyâke na'büdü ve leke nüsallî ve nescüdü ve ileyke nes'â ve nahfidü.\nNercû rahmeteke ve nahşâ azâbeke inne azâbeke bilküffâri mülhık."
+			}
+		},
+		"notes": [
+			"Her secdede 'Sübhâne rabbiyel a'lâ' 3 defa söylenir.",
+			"Her rükuda 'Sübhâne rabbiyel azîm' 3 defa söylenir.",
+			"Fatiha suresinden sonra kısa sure okumak sünnettir.",
+			"Her selam verişte: 'Esselâmü aleyküm ve rahmetullâh'."
+		]
+	}
+}

@@ -1,0 +1,200 @@
+{
+	"PrayerGuide": {
+		"title": "🌿 ПОЛНОЕ РУКОВОДСТВО ПО ПЯТИКРАТНОЙ МОЛИТВЕ",
+		"subtitle": "(с арабским чтением)",
+		"tabs": {
+			"prayers": "Порядок молитвы",
+			"recitations": "Суры и Молитвы"
+		},
+		"recitationsTitle": "✨ Суры и молитвы, читаемые в намазе",
+		"notesTitle": "🔔 Примечание",
+		"niyat": "Намерение",
+		"prayers": {
+			"fajr": {
+				"title": "1. УТРЕННЯЯ МОЛИТВА (ФАДЖР)",
+				"description": "2 ракаата сунна, 2 ракаата фард",
+				"sunnatRakats": [
+					{
+						"title": "Сунна (2 ракаата)",
+						"niyat": "Я намереваюсь совершить два ракаата сунны утренней молитвы ради Аллаха.",
+						"steps": [
+							"1-й ракаат: Субханака, Аль-Фатиха, короткая сура (Аль-Ихлас), руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура (Аль-Каусар), руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				],
+				"farzRakats": [
+					{
+						"title": "Фард (2 ракаата)",
+						"niyat": "Я намереваюсь совершить два ракаата фарда утренней молитвы ради Аллаха.",
+						"steps": [
+							"1-й ракаат: Субханака, Аль-Фатиха, короткая сура (Аль-Ихлас), руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура (Аль-Каусар), руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				]
+			},
+			"dhuhr": {
+				"title": "2. ПОЛУДЕННАЯ МОЛИТВА (ЗУХР)",
+				"description": "4 ракаата сунна, 4 ракаата фард, 2 ракаата сунна",
+				"sunnatRakats": [
+					{
+						"title": "Сунна (4 ракаата)",
+						"steps": [
+							"1-2 ракааты: Субханака, Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд во 2-м ракаате.",
+							"3-4 ракааты: только Аль-Фатиха, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам в 4-м ракаате."
+						]
+					},
+					{
+						"title": "Сунна (2 ракаата)",
+						"steps": [
+							"1-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				],
+				"farzRakats": [
+					{
+						"title": "Фард (4 ракаата)",
+						"steps": [
+							"1-2 ракааты: Субханака, Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд во 2-м ракаате.",
+							"3-4 ракааты: только Аль-Фатиха, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам в 4-м ракаате."
+						]
+					}
+				]
+			},
+			"asr": {
+				"title": "3. ПРЕДВЕЧЕРНЯЯ МОЛИТВА (АСР)",
+				"description": "4 ракаата фард",
+				"farzRakats": [
+					{
+						"title": "Фард (4 ракаата)",
+						"steps": [
+							"1-2 ракааты: Субханака, Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд во 2-м ракаате.",
+							"3-4 ракааты: только Аль-Фатиха, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам в 4-м ракаате."
+						]
+					}
+				]
+			},
+			"maghrib": {
+				"title": "4. ВЕЧЕРНЯЯ МОЛИТВА (МАГРИБ)",
+				"description": "3 ракаата фард, 2 ракаата сунна",
+				"farzRakats": [
+					{
+						"title": "Фард (3 ракаата)",
+						"steps": [
+							"1-й ракаат: Субханака, Аль-Фатиха, короткая сура, руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура, руку', саджда, Ташаххуд.",
+							"3-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				],
+				"sunnatRakats": [
+					{
+						"title": "Сунна (2 ракаата)",
+						"steps": [
+							"1-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				]
+			},
+			"isha": {
+				"title": "5. НОЧНАЯ МОЛИТВА (ИША)",
+				"description": "4 ракаата фард, 2 ракаата сунна",
+				"farzRakats": [
+					{
+						"title": "Фард (4 ракаата)",
+						"steps": [
+							"1-2 ракааты: Субханака, Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд во 2-м ракаате.",
+							"3-4 ракааты: только Аль-Фатиха, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам в 4-м ракаате."
+						]
+					}
+				],
+				"sunnatRakats": [
+					{
+						"title": "Сунна (2 ракаата)",
+						"steps": [
+							"1-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура, руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				]
+			},
+			"witr": {
+				"title": "6. МОЛИТВА ВИТР",
+				"description": "3 ракаата ваджиб",
+				"farzRakats": [
+					{
+						"title": "Ваджиб (3 ракаата)",
+						"niyat": "Я намереваюсь совершить три ракаата ваджиба молитвы Витр ради Аллаха.",
+						"steps": [
+							"1-й ракаат: Субханака, Аль-Фатиха, короткая сура (Аль-Ихлас), руку', саджда.",
+							"2-й ракаат: Аль-Фатиха, короткая сура (Аль-Каусар), руку', саджда, Ташаххуд.",
+							"3-й ракаат: Аль-Фатиха, короткая сура, перед руку' поднять руки и прочитать молитву Кунут, затем руку', саджда.",
+							"Ташаххуд, Саляват, Дуа, Салам."
+						]
+					}
+				]
+			}
+		},
+		"recitations": {
+			"subhanaka": {
+				"title": "Субханака",
+				"content": "Subhanakallohumma va bihamdik, va tabarokasmuk, va ta'ala jadduk, va la ilaha g'oyruk."
+			},
+			"fatiha": {
+				"title": "Сура Аль-Фатиха",
+				"content": "Bismillahir rohmanir rohim.\n1. Alhamdulillahi robbil 'aalamiyn \n2. Ar-rohmaanir rohiym \n3. Maaliki yavmiddiyn \n4. Iyyaaka na'budu va iyyaaka nasta'iyn. \n5. Ihdinas-sirootol mustaqiym \n6-7. Sirootol-laziyna an'amta 'alayhim g'oyril mag'zuubi 'alayhim valazzolliyn. Omin."
+			},
+			"ikhlas": {
+				"title": "Сура Аль-Ихлас",
+				"content": "Qul huvallohu ahad.\nAllohu somad.\nLam yalid va lam yulad.\nVa lam yakun lahu kufuvan ahad."
+			},
+			"kawthar": {
+				"title": "Сура Аль-Каусар",
+				"content": "Inna a'taynaka-l-kawthar.\nFasalli li-robbika vanhar.\nInna shani'aka huval-abtar."
+			},
+			"tashahhud": {
+				"title": "Ат-Тахийят (Ташаххуд)",
+				"content": "Attahiyyatu lillahi vassalavatu vattoyyibat.\nAssalamu 'alayka ayyuhan-nabiyyu va rohmatullahi va barokatuh.\nAssalamu 'alayna va 'ala ibadillahissolihin.\nAshhadu alla ilaha illallohu va ashhadu anna Muhammadan abduhu va rosuluh.\n\nAt-tahiyyātu lillāhi was-salawātu wat-tayyibāt,\nAs-salāmu 'alayka ayyuhan-nabiyyu wa raḥmatullāhi wa barakātuh,\nAs-salāmu 'alaynā wa 'alā 'ibādillāhiṣ-ṣāliḥīn,\nAshhadu allā ilāha illallāh,\nWa ashhadu anna Muḥammadan 'abduhū wa rasūluh."
+			},
+			"salawat": {
+				"title": "Саляват",
+				"content": "Allohumma solli 'ala Muhammadin va 'ala ali Muhammadin.\nKama sollayta 'ala Ibrohima va 'ala ali Ibrohim.\nInnaka hamidum majid.\nAllohumma barik 'ala Muhammadin va 'ala ali Muhammadin.\nKama barokta 'ala Ibrohima va 'ala ali Ibrohim.\nInnaka hamidum majid. \n\nAllāhumma ṣalli 'alā Muḥammadin wa 'alā āli Muḥammad,\nKamā ṣallayta 'alā Ibrāhīma wa 'alā āli Ibrāhīm,\nInnaka ḥamīdum-majīd.\n\nAllāhumma bārik 'alā Muḥammadin wa 'alā āli Muḥammad,\nKamā bārakta 'alā Ibrāhīma wa 'alā āli Ibrāhīm,\nInnaka ḥamīdum-majīd."
+			},
+			"dua": {
+				"title": "Дуа",
+				"content": "Robbana atina fid-dunya hasanatan, va fil-akhirati hasanatan, va qina 'azaban-nar."
+			},
+			"salam": {
+				"title": "Салам",
+				"content": "Assalamu 'alaykum va rohmatulloh."
+			},
+			"qunut": {
+				"title": "Молитва Кунут",
+				"content": "Allohumma inna nasta'iynuka va nastaghfiruka va nu'minu bika va natavakkalu 'alayka va nusniy 'alaykal-khayr, kullahu nashkuruka va la nakfuruk, va nakhla'u va natruku may-yafjuruk.\n\nAllohumma iyyaka na'budu va laka nusolli va nasjudu va ilayka nas'a va nahfidu, narju rohmataka, va nakhsha 'azabaka, inna 'azabaka bil-kuffari mulhiq."
+			}
+		},
+		"notes": [
+			"В каждом саджда говорите 'Субхана Роббияль а'ля' 3 раза.",
+			"В каждом руку' говорите 'Субхана Роббияль азим' 3 раза.",
+			"Чтение короткой суры после Суры Аль-Фатиха является сунной.",
+			"Каждый салам: 'Ассаляму алейкум ва рахматуллах'."
+		]
+	}
+}

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 export interface Rakat {
 	title: string
 	niyat?: string
@@ -13,5 +14,5 @@ export interface PrayerCardProps {
 
 export interface RecitationItemProps {
 	title: string
-	content: string
+	t: any
 }
